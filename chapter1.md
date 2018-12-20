@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Case Study of Investment Portfolio Risk Management: Portfolio Optimization
+## Case Study of Investment Portfolio Risk Management and Optimization
 
 ```yaml
 type: VideoExercise
