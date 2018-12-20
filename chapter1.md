@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Case Study of Investment Portfolio Risk Management: Portfolio Optimization
+
+```yaml
+type: VideoExercise
+key: 8e69e04291
+xp: 50
+```
+
+`@projector_key`
+6cbd71baf5e0b248b2939f892098f9e9
